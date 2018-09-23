@@ -1,0 +1,60 @@
+{
+	"name": [
+		"Ben",
+		"Anna",
+		"Carl",
+		"Rachel",
+		"Dominic",
+		"Brooke"
+	],
+	"occupation": [
+		"web developer",
+		"professor",
+		"manager",
+		"Author",
+		"Musician",
+		"Doctor"
+	],
+	"origin": [
+		"#name# a #occupation#, was #always# #expecting# getting #sent# to #england#. They were #happy# that their #hard work# was #recognized# and they were #excited# for this #change#."
+	],
+	"always": [
+		"never",
+		"rarely"
+	],
+	"expecting": [
+		"anticipating",
+		"imagining"
+	],
+	"sent": [
+		"promoted",
+		"transferred"
+	],
+	"england": [
+		"canada",
+		"china",
+		"dubai"
+	],
+	"happy": [
+		"surprised",
+		"shocked",
+		"confused"
+	],
+	"hard work": [
+		"skill",
+		"value"
+	],
+	"excited": [
+		"nervous",
+		"scared",
+		"elated"
+	],
+	"change": [
+		"journey",
+		"new chapter"
+	],
+	"recognized": [
+		"seen",
+		"acknowledged"
+	]
+}
